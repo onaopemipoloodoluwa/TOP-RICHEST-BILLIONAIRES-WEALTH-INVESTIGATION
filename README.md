@@ -26,7 +26,9 @@
 ## INSIGHTS
 
 - The combined net worth of all 200 billionaires amounts to **$6,368 billion** approximately **($6.368 trillion)**.
-  ![]()
+  
+  ![](Combined_total_networth.png)
+  
 - Bernard Arnault and family rank first among the 20 richest billionaires based on net worth.
   
   ![](top_20_richest_Billionaire.png)
