@@ -26,14 +26,45 @@
 ## INSIGHTS
 
 - The combined net worth of all 200 billionaires amounts to **$6,368 billion** approximately **($6.368 trillion)**.
+  ![]()
 - Bernard Arnault and family rank first among the 20 richest billionaires based on net worth.
+  
+  ![](top_20_richest_Billionaire.png)
+  
 - The five youngest billionaires in the dataset fall within the age range of **31–39 years**.
+  
+  ![](least_5_Billionaire_age.png)
+  
 - The total number of billionaires above the age of **50** are **183**, i.e. The billionaire population in this dataset is relatively older, suggesting that significant wealth accumulation may be associated with years of business experience and investment.
+
+  ![](No_adult_Billionaire.png)
+
+  
 - The average age of the billionaires is **69.38** years, while their average net worth is **$31.84 billion**.
+
+  ![](Avg_age_Avg_net_worth.png)
+
+  
 - The United States, China, India, Russia, and Germany are the five countries with the highest number of billionaires.
+  
+  ![](No_of_Billionaire_per_country.png)
+
+  
 - Technology, Finance & Investments, Fashion & Retail, Food & Beverages, and Diversified are the five industries with the highest number of billionaires.
+
+  
+  ![](No_of_Billionaire_per_inndustry.png)
+  
 - Telecom, Technology, Fashion & Retail, Diversified and Automative are the five industries with the highest average net worth.
+
+  
+  ![](Avg_net_worth_per_industry.png)
+
+  
 - The Technology industry has the highest combined net worth among all the industries represented in the dataset.
+
+  
+  ![](Industry_networth.png)
 
 ## MANAGEMENT ATTENTION
 
